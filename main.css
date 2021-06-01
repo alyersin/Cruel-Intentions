@@ -68,7 +68,7 @@ footer {
 }
 
 .nav-content:hover {
-    color: rgb(98, 51, 112);
+    color: rgb(188, 196, 76);
 }
 
 .section-one-content {
@@ -111,6 +111,7 @@ h1 {
     background-color: rgb(204, 204, 255);
     border: 3px rgb(0, 51, 102) solid;
     color: rgb(0, 0, 102);
+    transition: 0.2s;
 }
 
 .section-two-content {
