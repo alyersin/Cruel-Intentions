@@ -7,11 +7,12 @@ body {
     font-family: 'Montserrat', sans-serif;
 }
 
+
 /*==========LAYOUT==========*/
 
 header {
     display: block;
-    background-color: teal;
+    background-color: rgb(3, 60, 124);
     width: 100%;
     height: 150px;
     text-align: center;
@@ -39,7 +40,7 @@ header {
     display: table;
     height: 50vh;
     width: 100%;
-    background-color: teal
+    background-color: rgb(3, 60, 124);
 }
 
 footer {
@@ -49,12 +50,13 @@ footer {
     height: 150px;
 }
 
+
 /*==========COMPONENTS==========*/
 
 .nav-one {
     display: inline-block;
     position: relative;
-    top: 45px;    
+    top: 45px;
 }
 
 .nav-content {
@@ -70,7 +72,7 @@ footer {
 }
 
 .section-one-content {
-    color: 	white;
+    color: white;
 }
 
 .section-one-content {
@@ -101,7 +103,7 @@ h1 {
     text-decoration: none;
     border: 3px white solid;
     border-radius: 5%;
-    margin: 10px 10px 10px 10px; 
+    margin: 10px 10px 10px 10px;
     letter-spacing: 2px;
 }
 
