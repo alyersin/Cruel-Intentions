@@ -114,7 +114,7 @@ h1 {
 }
 
 .section-two-content {
-    background-color: white;
+    background-color: rgb(236, 236, 236);
     text-align: center;
     font-size: 1.6rem;
     line-height: 40px;
@@ -136,4 +136,9 @@ h2 {
 
 .section-text {
     padding-top: 100px;
+}
+
+.social-icon {
+    position: relative;
+    top: 30px;
 }
