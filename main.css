@@ -20,7 +20,7 @@ header {
 }
 
 .section-one {
-    display: table;
+    display: block;
     height: 90vh;
     width: 100%;
     background: url('./images/bak1.jpg') no-repeat 70% center/cover;
